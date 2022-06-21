@@ -1,0 +1,7 @@
+BACKUP DATABASE SoftUni
+TO DISK = 'D:\SoftUni'
+
+DROP DATABASE SoftUni
+
+RESTORE DATABASE SoftUni 
+FROM DISK = 'D:\SoftUni'
