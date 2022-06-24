@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\06.RemoveVillain\\06.RemoveVillain.csproj": {}
+  },
+  "projects": {
+    "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\01.InitialSetup\\01.InitialSetup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\01.InitialSetup\\01.InitialSetup.csproj",
+        "projectName": "01.InitialSetup",
+        "projectPath": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\01.InitialSetup\\01.InitialSetup.csproj",
+        "packagesPath": "C:\\Users\\PC01\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\01.InitialSetup\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\06.RemoveVillain\\06.RemoveVillain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\06.RemoveVillain\\06.RemoveVillain.csproj",
+        "projectName": "06.RemoveVillain",
+        "projectPath": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\06.RemoveVillain\\06.RemoveVillain.csproj",
+        "packagesPath": "C:\\Users\\PC01\\.nuget\\packages\\",
+        "outputPath": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\06.RemoveVillain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\01.InitialSetup\\01.InitialSetup.csproj": {
+                "projectPath": "D:\\SoftUni\\SoftUni-Courses\\SoftUni-Entyty-Framework-Core\\ADO.NET-Exercises\\01.InitialSetup\\01.InitialSetup.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
