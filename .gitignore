@@ -1,2 +1,5 @@
-.vs
+.bin
+.obj
+/SoftUni-Entyty-Framework-Core/ADO.NET-Exercises/01.InitialSetup/Config.cs
+
 
