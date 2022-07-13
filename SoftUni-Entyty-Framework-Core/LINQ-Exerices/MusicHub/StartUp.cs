@@ -16,7 +16,7 @@
 
             DbInitializer.ResetDatabase(context);
 
-            var result = ExportSongsAboveDuration(context, 4);
+            var result = ExportSongsAboveDuration(context, 9);
 
             Console.WriteLine(result);
         }
