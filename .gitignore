@@ -1,9 +1,4 @@
 .bin
 .obj
-<<<<<<< HEAD
-/SoftUni-Entyty-Framework-Core/ADO.NET-Exercises/01.InitialSetup/Config.cs
-=======
-/SoftUni-Entyty-Framework-Core/ADO.NET-Exercises/01.InitialSetup/Config.cs
+.vs
 
-
->>>>>>> cdb6228ab166e2e8c46adab37c71bdaa21f53de6
