@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Users>
+  <User>
+    <firstName>Almire</firstName>
+    <soldProducts>
+      <name>olio activ mouthwash</name>
+      <price>206.06</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Acnezzol Base</name>
+      <price>710.60</price>
+    </soldProducts>
+    <soldProducts>
+      <name>ENALAPRIL MALEATE</name>
+      <price>210.42</price>
+    </soldProducts>
+  </User>
+  <User>
+    <firstName>Bernadette</firstName>
+    <soldProducts>
+      <name>Topiramate</name>
+      <price>578.77</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Alcohol Free Antiseptic</name>
+      <price>1486.07</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Warfarin Sodium</name>
+      <price>1379.79</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Lamotrigine Extended Release</name>
+      <price>245.63</price>
+    </soldProducts>
+    <soldProducts>
+      <name>CLARINS Ever Matte SPF 15 - 105 Nude</name>
+      <price>696.06</price>
+    </soldProducts>
+    <soldProducts>
+      <name>ERYTHROMYCIN Base Filmtab</name>
+      <price>117.84</price>
+    </soldProducts>
+  </User>
+  <User>
+    <firstName>Brig</firstName>
+    <soldProducts>
+      <name>Nevirapine</name>
+      <price>1374.72</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Homeopathic Rheumatism</name>
+      <price>967.08</price>
+    </soldProducts>
+    <soldProducts>
+      <name>ziprasidone hydrochloride</name>
+      <price>628.66</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Labetalol hydrochloride</name>
+      <price>436.38</price>
+    </soldProducts>
+    <soldProducts>
+      <name>kirkland signature minoxidil</name>
+      <price>49.17</price>
+    </soldProducts>
+    <soldProducts>
+      <name>NEO-POLY-BAC HYDRO</name>
+      <price>967.32</price>
+    </soldProducts>
+  </User>
+  <User>
+    <firstName>Carine</firstName>
+    <soldProducts>
+      <name>Trihexyphenidyl Hydrochloride</name>
+      <price>64.88</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Enchanted Moments Mistletoe Kisses Hand Sanitizer</name>
+      <price>384.99</price>
+    </soldProducts>
+    <soldProducts>
+      <name>H-Rosacea Formula</name>
+      <price>99.74</price>
+    </soldProducts>
+    <soldProducts>
+      <name>XANTHIUM STRUMARIUM VAR CANADENSE POLLEN</name>
+      <price>1091.38</price>
+    </soldProducts>
+  </User>
+  <User>
+    <firstName>Cathee</firstName>
+    <soldProducts>
+      <name>Fair Foundation SPF 15</name>
+      <price>1394.24</price>
+    </soldProducts>
+    <soldProducts>
+      <name>IOPE RETIGEN MOISTURE TWIN CAKE NO.21</name>
+      <price>1257.71</price>
+    </soldProducts>
+    <soldProducts>
+      <name>ESIKA</name>
+      <price>879.37</price>
+    </soldProducts>
+    <soldProducts>
+      <name>allergy eye</name>
+      <price>426.91</price>
+    </soldProducts>
+    <soldProducts>
+      <name>GOONG SECRET CALMING BATH</name>
+      <price>742.47</price>
+    </soldProducts>
+    <soldProducts>
+      <name>EMEND</name>
+      <price>1365.51</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Finasteride</name>
+      <price>1374.01</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Glyburide</name>
+      <price>95.10</price>
+    </soldProducts>
+    <soldProducts>
+      <name>Allergena</name>
+      <price>109.32</price>
+    </soldProducts>
+  </User>
+</Users>
